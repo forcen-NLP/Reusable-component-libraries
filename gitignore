@@ -1,0 +1,4 @@
+/node_modules
+/dist
+/.rpt*
+/storybook-static

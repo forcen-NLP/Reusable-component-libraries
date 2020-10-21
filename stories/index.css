@@ -1,0 +1,48 @@
+
+body {
+  margin: 0;
+  padding-top: 1rem;
+  background-color: #131e26;
+  font-family: Montserrat, sans-serif;
+  color: white;
+}
+
+.case {
+  display: flex;
+  align-items: baseline;
+}
+
+.example {
+  margin-left: 10rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.vertical-center {
+  align-items: center;
+}
+
+.margin-bottom {
+  margin-bottom: 1rem;
+}
+
+.padding {
+  padding: 1rem;
+}
+
+.period-pie {
+  width: 50px;
+  height: 50px;
+}
+
+.period-line {
+  width: 200px;
+}
+
+.color-example {
+  display: inline-block;
+  width: 50px;
+  height: 10px;
+}
